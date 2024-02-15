@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hola Mundooo, me encuentro estudiando git hub por dos motivos, para aprender, y para una certificacion jaja 😆, que tengan buen dia 🧐.
+Hello World and hello beautiful person!
+I am a beginner so you can expect that my repositorys are very *very* good 
+I always trait to do the things well and with calm
+Have a marvelous day!
