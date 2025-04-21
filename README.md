@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 Hello World and hello beautiful person!
 I am a beginner so you can expect that my repositorys are very *very* good 
-I always trait to do the things well and with calm
+I always try to do the things well and with calm
 Have a marvelous day!
